@@ -50,4 +50,9 @@
     <string name="nimText9">084947</string>
     <string name="emailText9">wes@gmail.com</string>
     <string name="handphoneText9">082157894728</string>
+    <string name="noText10">10</string>
+    <string name="namaText10">Zen</string>
+    <string name="nimText10">084974</string>
+    <string name="emailText10">zen@gmail.com</string>
+    <string name="handphoneText10">082157842938</string>
 </resources>
